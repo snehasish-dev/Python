@@ -11,3 +11,5 @@ print(name.upper())
 print(name.lower())
 #String split
 print(name.split())
+# String Swapp
+print(name.swapcase())
