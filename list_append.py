@@ -3,3 +3,4 @@ lis = []
 for i in range(n):
     lis.append(input("Give a elemenst:"))
 print(f"The list is :{lis}")
+print("Program are closed!")
